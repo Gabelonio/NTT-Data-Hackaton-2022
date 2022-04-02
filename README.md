@@ -30,4 +30,5 @@ Los recursos expuestos en el siguiente repositorios son los siguientes:
 
 ### Recursos
 El Prototipo de la solución se puede encontrar en el siguiente enlace : https://miprimercamello.squarespace.com
+
 La contraseña solicitada para ingresar al Prototipo de solución (Mockup) es la siguiente : NTT2022
